@@ -41,4 +41,4 @@ class AnimImage():
 			self.sprite = pyglet.sprite.Sprite(self.img.get_region(self.x, 0, 320, 378))
 			self.timing = time()
 x = gui()
-x.run()
+x.run() 
